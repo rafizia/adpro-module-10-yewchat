@@ -1,21 +1,17 @@
-# YewChat 💬
+Nama: Muhammad Rafi Zia Ulhaq<br>
+NPM: 2206814551<br>
+Kelas: Pemrograman Lanjut B<br>
 
-> Source code for [Let’s Build a Websocket Chat Project With Rust and Yew 0.19 🦀](https://fsjohnny.medium.com/lets-build-a-websockets-project-with-rust-and-yew-0-19-60720367399f)
+# Module 10 - WebChat using Yew
 
-## Install
+### Original Code
 
-1. Install the required toolchain dependencies:
-   ```npm i```
+![alt text](https://github.com/rafizia/adpro-module-10-yewchat/blob/master/src/image/Yewchat-1.png?raw=true)
 
-2. Follow the YewChat post!
+Setelah menjalankan program tersebut dengan `npm start` pada YewChat dan Simple WebSocket Server, program tersebut dapat berjalan dengan baik. Kita dapat mengirim pesan dan menerima pesan dari *chat room* yang terdapat pada program tersebut.
 
-## Branches
+### Add Some Creativities to the Webclient
 
-This repository is divided to branches that correspond to the blog post sections:
+![alt text](https://github.com/rafizia/adpro-module-10-yewchat/blob/master/src/image/Yewchat-2.png?raw=true)
 
-* main - The starter code.
-* routing - The code at the end of the Routing section.
-* components-part1 - The code at the end of the Components-Phase 1 section.
-* websockets - The code at the end of the Hello Websockets! section.
-* components-part2 - The code at the end of the Components-Phase 2 section.
-* websockets-part2 - The code at the end of the WebSockets-Phase 2 section.
+Pada bagian ini, saya mengubah tema aplikasi menjadi *dark mode* dengan mengubah *background* pada setiap elemen menjadi warna yang lebih gelap serta mengubah beberapa teks menjadi berwarna putih. Selain itu saya juga menambahkan beberapa ikon pada aplikasi tersebut.
